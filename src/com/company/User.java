@@ -1,6 +1,7 @@
 package com.company;
 
 public class User {
+    
     private int id;
     private String password;
     private double balance;

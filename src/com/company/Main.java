@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 // login--- user password
+ 
  // create account user password
  //send money from one account to another---> user password ,destination account number
  // check and  add balance
